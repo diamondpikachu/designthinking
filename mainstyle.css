@@ -33,11 +33,16 @@ body {
 }
 
 .different {
-    border-left: 1px solid gray;
-    border-top: 1px solid gray;
-    border-bottom: 1px solid gray;
-    border-right: 1px solid gray;
+    border-left: 5px solid gray;
+    border-top: 5px solid gray;
+    border-bottom: 5px solid gray;
+    border-right: 5px solid gray;
     padding: 5px;
+    margin: -5px;
+}
+
+.different:hover {
+    background-color: palegreen;
 }
 
 #tabs-border-bottom {
@@ -68,4 +73,61 @@ body {
 
 .heading {
    clear: both;
+}
+
+.enlarge {
+    font-size: 25px;
+}
+
+.move {
+    position: absolute;
+    left: 425px;
+}
+
+.echo {
+    border-left: 1px solid gray;
+    border-right: 1px solid gray;
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+    padding: 5px;
+    margin-right: 20px;
+}
+
+#cooler {
+    margin-left: 50px;
+}
+
+#eagle {
+    margin-left: 50px;
+}
+
+#lol {
+    padding-bottom: 25px;
+    margin-left: 50px;
+}
+
+#hello {
+    margin-bottom: 25px;
+}
+
+#hehe {
+    margin-left: 50px;
+}
+
+#ghost {
+    margin-left: 30px;
+}
+
+#wow {
+    margin-left: 50px;
+}
+
+#distract {
+    margin-left: 50px;
+    padding-bottom: 25px;
+}
+
+#sniper {
+    margin-left: 50px;
+    padding-bottom: 25px;
 }
