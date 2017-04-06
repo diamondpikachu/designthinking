@@ -1,0 +1,71 @@
+body {
+    font-family: "Comic Sans MS";
+    background-color: lightsalmon;
+}
+
+#heading {
+    text-align: center;
+}
+
+#almost-top {
+    margin-top: 55px;
+}
+
+#secondary {
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 55px;
+    background-color: white;
+}
+
+#secondary #pro {
+    text-align: center;
+    padding-top: 50px;
+}
+
+#cool {
+    margin-left: 50px;
+}
+
+#help {
+    margin-left: 50px;
+    padding-bottom: 25px;
+}
+
+.different {
+    border-left: 1px solid gray;
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+    border-right: 1px solid gray;
+    padding: 5px;
+}
+
+#tabs-border-bottom {
+    border-bottom: 1px solid gray;
+    padding-bottom: 55px;
+    text-align: center;
+}
+
+.borderlands {
+    border-left: 1px solid gray;
+    border-right: 1px solid gray;
+    padding: 5px;
+}
+
+.tabs {
+    margin-right: 5px;
+}
+
+.tabs:hover {
+    background-color: azure;
+}
+
+.image {
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 100px;
+}
+
+.heading {
+   clear: both;
+}
