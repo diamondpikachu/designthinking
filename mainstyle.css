@@ -131,3 +131,68 @@ body {
     margin-left: 50px;
     padding-bottom: 25px;
 }
+
+.justdoit {
+    margin-left: 50px
+}
+
+#idk {
+    margin-left: 50px;
+    padding-bottom: 25px;
+}
+
+#okay {
+    margin-left: 50px;
+    padding-bottom: 25px;  
+}
+
+#later {
+    margin-left: 50px;
+    padding-bottom: 25px;      
+}
+
+#try {
+    position: absolute;
+    left: 300px;
+}
+
+#learn {
+    position: absolute;
+    left: 700px;
+}
+
+#dot {
+    position: absolute;
+    left: 300px;
+    top: 800px;
+}
+
+#tired {
+    position: absolute;
+    left: 700px;
+    top: 800px;
+}
+
+#near {
+    position: absolute;
+    left: 275px;
+    top: 720px;
+}
+
+#nearer {
+    position: absolute;
+    left: 745px;
+    top: 720px;
+}
+
+#nearest {
+    position: absolute;
+    left: 275px;
+    top: 1100px;
+}
+
+#far {
+    position: absolute;
+    left: 745px;
+    top: 1100px;
+}
